@@ -57,4 +57,4 @@ Run the flask application:
 $ python3 main.py
 ```
 
-As there is no web-interface for HTTP requests, please separately run the tests/terminal_test.py file or create a similar program to use the HTTP request methods.
+As there is no web-interface for HTTP requests, please separately run (and edit) the tests/terminal_test.py file or create a similar program to use the HTTP request methods.
