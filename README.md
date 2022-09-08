@@ -12,7 +12,7 @@ Simple REST API built with flask and a SQLAlchemy database. User can create,  up
 create a new directory, move to it and clone this repository:
 
 ```
-$ git clone
+$ git clone https://github.com/yrider/FlaskAPI_YoutubeVideos.git
 ```
 
 Create a virtual environment and activate it:
